@@ -66,7 +66,7 @@ cv2.imwrite('img.jpg', final_img)
 #Writing the final output to a a file
 ```
 
-
+Just like that in 9 lines of code, you can easily create skteches using OpenCV and Python!
 
 Here's the Github repository with this  [code](https://github.com/PrasoonPratham/Sketches-with-Python) .
 
