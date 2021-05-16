@@ -120,7 +120,8 @@ The F₁ score is the harmonic mean of precision and recall.
 The harmonic mean is a special type of mean(average) which is explained by this formula.
 
 We use this mean instead of the normal mean because the normal punishes extreme values.
-![7.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1621161510216/SQFhi1f1x.png)
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1621169288000/S7JLM7M3a.png)
 
 
 ### Now if we optimize our model to have an F₁ score, we can have high precision and recall.
@@ -134,6 +135,5 @@ Over the next few months, I will be explaining even more evaluation metrics like
 If you enjoy such content, make sure to subscribe to my  [newsletter](https://www.getrevue.co/profile/prasoonpratham) .
 
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1621161527215/ge0EmtQE0.png)
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1621169309073/JSoop7Pnq.png)
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1621161529421/yfx9Qehxy.png)
